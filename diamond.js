@@ -1,0 +1,1 @@
+document.write('&nbsp &nbsp * <br /> &nbsp *** <br /> ***** <br /> &nbsp *** <br /> &nbsp &nbsp *');
